@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822541970751",
+    "project_id": "greengaurd-4f31f",
+    "storage_bucket": "greengaurd-4f31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822541970751:android:b34d26ad8776c7e13cf78a",
+        "android_client_info": {
+          "package_name": "com.example.greengaurd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0G9k56X7peyIJxgze97zy6emxjwiyafo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
