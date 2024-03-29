@@ -8,10 +8,7 @@ import 'package:firebase_core/firebase_core.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(name: 'ggd',options: FirebaseOptions(
-    apiKey:"AIzaSyDv9HVt1oUkyG6x819Nrou_8YUgvq2hfks" ,
-     appId: "1:822541970751:android:b34d26ad8776c7e13cf78a",
-      messagingSenderId:"822541970751" , 
-      projectId: "greengaurd-4f31f"));
+    ));
   runApp(const MyApp());
 }
 
